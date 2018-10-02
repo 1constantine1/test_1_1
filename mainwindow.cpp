@@ -15,11 +15,10 @@ MainWindow::MainWindow(QWidget *parent) :
 
     ui->lePathFile->setReadOnly(true);
 
-<<<<<<< HEAD
+
 /////////////test_5
-=======
 /////////////test
->>>>>>> parent of 4d307f1... Commit_4
+
 
 }
 
