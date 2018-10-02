@@ -16,8 +16,8 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->lePathFile->setReadOnly(true);
 
 
-/////////////test_5
-/////////////test
+/////////////test_6
+
 
 
 }
